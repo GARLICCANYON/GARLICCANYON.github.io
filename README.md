@@ -1,2 +1,6 @@
 # GARLICCANYON.github.io
-https://www.youtube.com/@GARLICCANYON
+
+## [YouTubeチャンネル](https://www.youtube.com/@GARLICCANYON)
+
+## [こんらんフォント](https://garliccanyon.github.io/konranfont/)
+

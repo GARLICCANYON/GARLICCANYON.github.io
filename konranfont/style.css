@@ -21,6 +21,7 @@ a,p {
     width: 80%;
     padding: 10px;
     margin: 20px 0;
+    border-radius: 5px;
 }
 #download {
     display: inline-block;
