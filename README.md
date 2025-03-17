@@ -4,3 +4,6 @@
 
 ## [こんらんフォント](https://garliccanyon.github.io/konranfont/)
 
+<!--
+未対応：ぎげざずぜぞだぢづどばびぶぼぱぴ
+-->
