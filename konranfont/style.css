@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'konranfont';
-    src: url('fonts/こんらんフォント.ttf') format('truetype');
+    src: url('こんらんフォント.ttf') format('truetype');
 }
 body {
     background: #111;
@@ -17,6 +17,7 @@ a,p {
     font-size: 20px;
 }
 #input {
+    font-family: 'konranfont';
     font-size: 24px;
     width: 80%;
     padding: 10px;
