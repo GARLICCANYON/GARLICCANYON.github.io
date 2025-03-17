@@ -1,12 +1,12 @@
 @font-face {
-    font-family: 'MyFont';
+    font-family: 'konranfont';
     src: url('fonts/myfont.ttf') format('truetype');
 }
 
 body {
     background: #121212;
     color: white;
-    font-family: 'MyFont', sans-serif;
+    font-family: 'konranfont', sans-serif;
     text-align: center;
     margin: 0;
     padding: 20px;
