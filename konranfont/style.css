@@ -13,8 +13,13 @@ body {
 h1 {
     font-size: 50px;
 }
-a,p {
+p {
     font-size: 20px;
+}
+a {
+    font-size: 40px;
+    color: #fff;
+    text-decoration: none;
 }
 #input {
     font-family: 'konranfont';
@@ -25,6 +30,7 @@ a,p {
     border-radius: 5px;
 }
 #download {
+    font-size: 20px;
     display: inline-block;
     margin: 20px 0;
     padding: 10px 20px;
